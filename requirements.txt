@@ -1,3 +1,6 @@
 aiohttp
+black
 fastapi[all]
+fuzzywuzzy
 requests
+uvicorn
